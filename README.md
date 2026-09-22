@@ -4,6 +4,10 @@
 stocks reflect stocks.  
 this one reflects SOL.
 
+**CA:** `5NJciRCNkpzYmGbsqK6yPK5HgWqvPr98WFGvjHTZ8dhX`
+
+[Dexscreener](https://dexscreener.com/solana/5NJciRCNkpzYmGbsqK6yPK5HgWqvPr98WFGvjHTZ8dhX) · [Solscan](https://solscan.io/token/5NJciRCNkpzYmGbsqK6yPK5HgWqvPr98WFGvjHTZ8dhX)
+
 ---
 
 ## Lore
@@ -51,6 +55,7 @@ We can all earn sol — not because a protocol said so, but because the pair is 
 | Chain | Solana |
 | Pair | SOL |
 | Mode | Holder rewards (quote asset) |
+| CA | 5NJciRCNkpzYmGbsqK6yPK5HgWqvPr98WFGvjHTZ8dhX |
 
 ---
 
